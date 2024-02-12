@@ -19,6 +19,9 @@ body{
 header{
 background-color:red;
 }
+h1{
+    font-family: 'Kanit', sans-serif;
+}
 
 main{
 background-color: green;
