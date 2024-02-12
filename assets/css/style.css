@@ -33,6 +33,17 @@ h1{
     letter-spacing: 2px;
     color:#070000;
 }
+#menu{
+    font-size:110%;
+    letter-spacing:4px;
+    list-style-type: none;
+}
+#menu > li{
+    margin-bottom: 1em;
+}
+.active{
+    border-bottom:1px solid #0a0a0a;
+}
 
 main{
 background-color: green;
