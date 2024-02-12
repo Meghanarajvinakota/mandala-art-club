@@ -5,12 +5,22 @@
     margin:0;
     box-sizing: border-box;
 }
+/* General styles*/
+body{
+    min-height:100vh;
+    display:flex;
+    flex-direction: column;
+    /*Generic project styles*/
+    color:#410606;
+}
 header{
 background-color:red;
 }
 
 main{
 background-color: green;
+/*make main element take up anysurpulus space to push footer down*/
+flex:1 0 auto;
 }
 
 footer{
