@@ -13,14 +13,25 @@ body{
     display:flex;
     flex-direction: column;
     /*Generic project styles*/
-    color:#410606;
+    color:#0a0a0a;
     font-family: 'Poppins', sans-serif;
 }
 header{
-background-color:red;
+background-color:white;
+padding:0 1rem;
+position:fixed;
+z-index:99;
+width:100%;
+}
+header a{
+    text-decoration: none;
+    Color:inherit;
 }
 h1{
     font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color:#070000;
 }
 
 main{
