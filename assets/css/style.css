@@ -22,6 +22,9 @@ padding:0 1rem;
 position:fixed;
 z-index:99;
 width:100%;
+display:flex;
+justify-content: space-between;
+align-items:baseline;
 }
 header a{
     text-decoration: none;
@@ -52,8 +55,19 @@ nav{
     left:0;
     padding: 0 1rem;
     display:none;
+    top:100%;
 }
+/*Nav toggle*/
+#nav-toggle:checked~nav{
+    display:block;
+}
+#nav-toggle{
+display:none;    
+}
+.nav-toggle-label{
+font-size:2rem;
 
+}
 main{
 background-color: green;
 /*make main element take up anysurpulus space to push footer down*/
