@@ -16,6 +16,8 @@ body{
     color:#0a0a0a;
     font-family: 'Poppins', sans-serif;
 }
+
+/*header*/
 header{
 background-color:white;
 padding:0 1rem;
@@ -26,6 +28,7 @@ display:flex;
 justify-content: space-between;
 align-items:baseline;
 }
+
 header a{
     text-decoration: none;
     Color:inherit;
@@ -66,12 +69,14 @@ display:none;
 }
 .nav-toggle-label{
 font-size:2rem;
-
 }
+
+/*maim content*/
 main{
 background-color: green;
 /*make main element take up anysurpulus space to push footer down*/
 flex:1 0 auto;
+margin-top:47px;
 }
 
 footer{
