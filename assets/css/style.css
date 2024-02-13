@@ -82,7 +82,7 @@ margin-top:47px;
 footer{
 background-color:blue;
 }
-/*Media queries for tablet and larger*/
+/*Media queries for tablet and larger 768px*/
 @media screen and (min-width:768px){
 /*Header*/
   nav{
@@ -110,4 +110,10 @@ background-color:blue;
     /*push main content down to accommodate larger header*/
     margin-top: 79px;
   }
+}
+/*Media queries for larger acreens laptops and desktops 992px*/
+@media screen and (min-width:992px) {
+ #menu a:hover{
+    border-bottom: 1px solid #0a0a0a;
+ }
 }
