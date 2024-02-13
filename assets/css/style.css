@@ -73,10 +73,30 @@ font-size:2rem;
 
 /*maim content*/
 main{
-background-color: green;
+background-color:white;
 /*make main element take up anysurpulus space to push footer down*/
 flex:1 0 auto;
 margin-top:47px;
+}
+/*About the club*/
+.benefits-info {
+    width: 50%;
+    height: 500px;
+    background-color: white;
+    color: #0a0a0a;
+    float: right;
+    overflow: hidden;
+}
+#mandala-image {
+    height: 500px;
+    object-fit: cover;
+    padding-left: 0 1 rem;
+}
+#benefits{
+    padding: 50px;
+}
+#benefits ul {
+    padding-left: 20px;
 }
 /*footer*/
 footer{
@@ -95,6 +115,9 @@ text-align: center;
 #social-networks i{
     color:green;
 }
+/*media queries*/
+
+
 /*Media queries for tablet and larger 768px*/
 @media screen and (min-width:768px){
 /*Header*/
@@ -124,9 +147,18 @@ text-align: center;
     margin-top: 79px;
   }
 }
+
 /*Media queries for larger acreens laptops and desktops 992px*/
 @media screen and (min-width:992px) {
  #menu a:hover{
     border-bottom: 1px solid #0a0a0a;
  }
+  #mandala-image {
+      height:700px;
+      width:50%;
+      
+  }
+  #benefits{
+    padding:30px;
+  }
 }
