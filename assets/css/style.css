@@ -78,9 +78,22 @@ background-color: green;
 flex:1 0 auto;
 margin-top:47px;
 }
-
+/*footer*/
 footer{
-background-color:blue;
+background-color:white;
+}
+p{
+text-align: center;
+}
+#social-networks{
+    text-align: center;
+        padding: 10px 0;
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+}
+#social-networks i{
+    color:green;
 }
 /*Media queries for tablet and larger 768px*/
 @media screen and (min-width:768px){
