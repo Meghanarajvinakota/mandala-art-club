@@ -106,6 +106,18 @@ bottom: 30px;
   color:green;
 list-style-type:none ;
 }
+
+#benefits-heading{
+padding-top: 20px;
+}
+#offer{
+  text-align: center;
+}
+#offer-list{
+  list-style-type: none;
+  color:green;
+  text-align: center;
+}
 /*video section*/
 iframe{
   width:100%;
@@ -122,6 +134,11 @@ iframe{
   top:10px;
   position: relative;
 }
+.section-heading{
+  text-align: center;
+  padding-top: 20px;
+}
+
 /*footer*/
 footer{
 background-color:white;
@@ -209,6 +226,13 @@ p{
     text-align: center;
     top:10px;
     position: relative;
+}
+#benefits{
+  text-align: center;
+}
+#offer{
+  text-align: center;
+
 }
 }
 /*large devices (laptops and desktops,992px and up)*/
