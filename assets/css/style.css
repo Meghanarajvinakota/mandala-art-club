@@ -16,6 +16,15 @@ body{
     color:#0a0a0a;
     font-family: 'Poppins', sans-serif;
 }
+h1,h2,h3{
+  font-family: 'Kanit', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color:#070000;
+}
+
+  
+
 
 /*header*/
 header{
@@ -33,12 +42,7 @@ header a{
     text-decoration: none;
     Color:inherit;
 }
-h1{
-    font-family: 'Kanit', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color:#070000;
-}
+
 #menu{
     font-size:110%;
     letter-spacing:4px;
@@ -83,6 +87,22 @@ margin-top:47px;
   height:600px;
   width:100%;
   background: url( "../images/hero.jpg") no-repeat center center/cover;
+  position: relative;
+  
+#cover-text >h2 ,#cover-text>h3{
+  color:white;
+}
+#cover-text{
+  /*final rgb value is opacity to set semi transparent color*/
+background-color:rgba(243, 189, 63, 0.91);
+font-size:130%;
+position: absolute;
+bottom: 30px;
+  width:80%;
+  min-height: 200px;
+  padding-top: 40px;
+  padding-left: 10px;
+}
 }
 /*footer*/
 footer{
@@ -135,5 +155,16 @@ p{
   main{
     /*push main content down to accommodate larger header*/
     margin-top: 79px;
+  }
+  /*hero*/
+  #cover-text{
+    width:300px;
+    left:50px;
+  }
+}
+/*large devices (laptops and desktops,992px and up)*/
+@media screen and (min-width:992px){
+  #menu a:hover{
+    border-bottom: 1px solid #0a0a0a;
   }
 }
