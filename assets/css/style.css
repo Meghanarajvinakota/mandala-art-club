@@ -101,6 +101,10 @@ text-align: center;
 #social-networks i{
     color:green;
 }
+p{
+  text-align: center;
+  color: green;
+}
 /*media queries*/
 
 
