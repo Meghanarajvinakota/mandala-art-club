@@ -78,25 +78,11 @@ background-color:white;
 flex:1 0 auto;
 margin-top:47px;
 }
-/*About the club*/
-.benefits-info {
-    width: 50%;
-    height: 500px;
-    background-color: white;
-    color: #0a0a0a;
-    float: right;
-    overflow: hidden;
-}
-#mandala-image {
-    height: 500px;
-    object-fit: cover;
-    padding-left: 0 1 rem;
-}
-#benefits{
-    padding: 50px;
-}
-#benefits ul {
-    padding-left: 20px;
+/*hero section*/
+#hero{
+  height:600px;
+  width:100%;
+  background: url( "../images/hero.jpg") no-repeat center center/cover;
 }
 /*footer*/
 footer{
@@ -145,20 +131,5 @@ text-align: center;
   main{
     /*push main content down to accommodate larger header*/
     margin-top: 79px;
-  }
-}
-
-/*Media queries for larger acreens laptops and desktops 992px*/
-@media screen and (min-width:992px) {
- #menu a:hover{
-    border-bottom: 1px solid #0a0a0a;
- }
-  #mandala-image {
-      height:700px;
-      width:50%;
-      
-  }
-  #benefits{
-    padding:30px;
   }
 }
