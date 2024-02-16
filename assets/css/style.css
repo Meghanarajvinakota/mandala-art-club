@@ -138,7 +138,13 @@ iframe{
   text-align: center;
   padding-top: 20px;
 }
-
+/*Gallery*/
+#photos img{
+width:100%;
+}
+#photos{
+  line-height: 1em;
+}
 /*footer*/
 footer{
 background-color:white;
