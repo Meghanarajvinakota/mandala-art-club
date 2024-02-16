@@ -32,7 +32,32 @@
 
     <!--Main Content-->
     <main>
-
+        <section id="signup">
+             <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                    <h2>Sign Up now!</h2>
+                    <label for="first_name">First Name</label>
+                    <input type="text" name="first_name" id="first_name" class="text-input" required>
+                    <br>
+                    <label for="last_name">Last Name</label>
+                    <input type="text" name="last_name" id="last_name" class="text-input" required>
+                    <br>
+                    <label for="email_address">Email Address</label>
+                    <input type="email" name="email_address" id="email_address" class="text-input" required>
+                    <br>
+                    <label for="phone-number" aria-label="phone number">Phone Number</label>
+                        <input type="text" id="phone-number" name="phone-number" class="text-input"required aria-label="phone number field"><br>
+                        <br>
+                    <h2>Skill level</h2>
+                    <input type="radio" id="beginner" name="skill-level" value="beginner" required aria-label="beginner option">
+                        <label for="beginner">Beginner</label><br>
+                        <input type="radio" id="intermediate" name="skill-level" value="intermediate" aria-label="intermediate option">
+                        <label for="intermediate">Intermediate</label><br>
+                        <input type="radio" id="professional" name="skill-level" value="professional" aria-label="professional option">
+                        <label for="professional">Professional</label><br><br>
+                        <button type="submit" class="join-button">Submit</button>
+                    </form>
+                    
+    </section>
     </main>
 
     <!--Footer-->

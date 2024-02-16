@@ -78,6 +78,15 @@ background-color:white;
 flex:1 0 auto;
 margin-top:47px;
 }
+main {
+  /* Enlarge main element to push footer down*/
+  flex: 1 0 auto;
+  /* Add margin at the top to prevent content from being covered by the header */
+  margin-top: 47px;
+  /* Enable flex properties for child elements */
+  display: flex;
+  flex-direction: column;
+}
 /*hero section*/
 #hero{
   height:600px;
@@ -145,6 +154,46 @@ width:100%;
 #photos{
   line-height: 1em;
 }
+
+/*Signup*/
+#signup-heading{
+  background-color:rgba(243, 189, 63, 0.91) ;
+  }
+  #signup {
+    background-image: url("../images/pexels-alesia-kozik-7182133.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+#signup-form {
+  color: black;
+  background-color: rgba(240, 215, 151, 0.6);
+  padding: 30px;
+}
+#signup-form>h2 {
+  color:black;
+  margin-bottom: 20px;
+}
+.text-input {
+  background: transparent;
+  color:black;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border-radius: 2px;
+  padding: 0 5px;
+}
+#skill-level{
+  color:black;
+  
+}
+.join-button {
+  background-color:  rgba(240, 215, 151, 0.6);
+  color: black;
+}
+
+
 /*footer*/
 footer{
 background-color:white;
@@ -169,6 +218,7 @@ p{
   text-align: center;
   color: green;
 }
+
 /*media queries*/
 
 /* Media query: large or landscape phones (576px and up) */
@@ -246,6 +296,20 @@ p{
 }
 #photos{
   column-count: 3;
+  line-height: 0;
+}
+/* Form */
+#signup {
+  background-position: center;
+  position: relative;
+}
+
+#signup-form {
+  max-width: 400px;
+  position: absolute;
+  left: 10%;
+  top: 100x;
+  margin-top: 30px;
 }
 }
 /*large devices (laptops and desktops,992px and up)*/
@@ -255,5 +319,9 @@ p{
   }
   #photos{
     column-count: 4;
+    line-height: 0;
+  }
+  #signup-form {
+    top:0px;
   }
 }
