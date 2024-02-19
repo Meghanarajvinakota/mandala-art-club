@@ -10,7 +10,7 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 ## Features
 ### Existing Features
 
-#### [In The Net - Homepage (Page 1)]
+#### [Mandala art club - ABOUT US page (Page 1)]
 
 - __Navigation Bar__
 
@@ -53,4 +53,10 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 
   ![footer section](./media/footer-image.png)
 
+- __Gallery__
+
+  - The gallery will provide the user with supporting images to see what Mandala look like.
+  - This section is valuable to the user as they will be able to easily identify the types of Mandalas. 
+
+![Gallery](./media/gallery-iamge.png)
 
