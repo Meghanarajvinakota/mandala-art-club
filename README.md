@@ -70,5 +70,20 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 ## Edits
 
 Once the website was actually being created, there were some changes made.
-Webpage is not responsive to all devices when it tested.
+Webpage is not responsive to all devices when it tested initially.
 Added more styles to. media query make it responsive.
+
+## Features Left to Implement
+
+- __Real time updates of Events__
+
+- On the Home page, it would be ideal to have the website dynamically update what is upcoming events.
+- On Signup page ,it would be great to signup for multiple events.
+
+- __Map__
+
+- On Home page, for easy access to get directions it would have a map link.
+- It would be ideal to change the location and search for Events.
+
+
+
