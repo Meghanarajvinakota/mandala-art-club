@@ -66,3 +66,9 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
   - The user will be asked to submit their full name ,email address and contact number.
 
 ![signup page](./media/signup-image.png)
+
+## Edits
+
+Once the website was actually being created, there were some changes made.
+Webpage is not responsive to all devices when it tested.
+Added more styles to. media query make it responsive.
