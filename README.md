@@ -85,5 +85,19 @@ Added more styles to. media query make it responsive.
 - On Home page, for easy access to get directions it would have a map link.
 - It would be ideal to change the location and search for Events.
 
+## Testing
+
+- The website was viewed on all devices, including a desktop, tablet, and a few iPhone and Android models, including an iPhone X, an iPhone XR and Iphone 14pro.
+- This website has been viewed and tested on Google Chrome, Mozilla Firefox, Safari and Microsoft Edge.
+- Family and friends were asked to navigate through the website and identify any bugs or improvements to be made.
+
+# Lighthouse
+
+Lighouse reports were generated on all 3 pages of the website. See below the scores:
+
+![Aboutuspage](./media/lighthouse-homepage.png)
+![Gallerypage](./media/lighthouse-galllerypage.png)
+![Signuppage](./media/lighthouse-signuppage.png)
+
 
 
