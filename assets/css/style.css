@@ -22,6 +22,11 @@ h1,h2,h3{
   letter-spacing: 2px;
   color:#070000;
 }
+
+.hidden-heading {
+  display: none;
+}
+
 /*header*/
 header{
 background-color:white;
