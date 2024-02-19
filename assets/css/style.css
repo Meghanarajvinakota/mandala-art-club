@@ -253,7 +253,7 @@ p{
     display:block;
     position:relative;
     width:fit-content;
-    padding:right 1rem;
+    padding-right:1rem;
   }  
   #menu{
     display:flex;
@@ -313,7 +313,7 @@ p{
   max-width: 400px;
   position: absolute;
   left: 10%;
-  top: 100x;
+  top: 100px;
   margin-top: 30px;
 }
 }
