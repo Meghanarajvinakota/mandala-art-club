@@ -118,3 +118,16 @@ CSS:  When passed through Jigsaw validator,no errors were found [(Jigsaw) valida
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://meghanarajvinakota.github.io/mandala-art-club/
+## Credits
+
+### Content 
+
+- The text for the Home page was taken from GOOGLE
+- The icons in the benefits,footer and contactus were taken from [Font Awesome](https://fontawesome.com/)
+- Fonts are imported from google fonts
+- reference example taken from love running project 
+
+### Media
+
+- Photos on 3 pages are used from pexels site
+- video link used from youtube
