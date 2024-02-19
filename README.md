@@ -25,5 +25,13 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
   - This section introduces the user to how mandala art looks like.
 
   ![Landing Page](./media/Aboutus%20-page%20-image.png)
-  
+
+- __Benefits section__
+
+  - In this section user will know what are the benefits of drawing manadlas.
+  - The user will see more about what is they are going to offer.and what will they get.
+
+  ![Benefit ssection](./media/benefits-image.png)
+
+
 
