@@ -91,7 +91,7 @@ Added more styles to. media query make it responsive.
 - This website has been viewed and tested on Google Chrome, Mozilla Firefox, Safari and Microsoft Edge.
 - Family and friends were asked to navigate through the website and identify any bugs or improvements to be made.
 
-# Lighthouse
+### Lighthouse
 
 Lighouse reports were generated on all 3 pages of the website. See below the scores:
 
@@ -99,5 +99,14 @@ Lighouse reports were generated on all 3 pages of the website. See below the sco
 ![Gallerypage](./media/lighthouse-galllerypage.png)
 ![Signuppage](./media/lighthouse-signuppage.png)
 
+### Validator testing
 
+HTML: When passed through W3C Validator,no errors were found on aboutus page [Aboutus page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io%2Findex.html)
+
+      When passed through W3C Validator,no errors were found on gallery page [Gallery page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io%2Fgallery.html)
+      
+      When passed through W3C Validator,no errors were found on signup page [Signup page](https://8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io/signup.html)
+
+CSS:  When passed through Jigsaw validator,no errors were found [(Jigsaw) validator](./media/cssvalidator.png)
+      
 
