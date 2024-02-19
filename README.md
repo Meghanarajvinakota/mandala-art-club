@@ -29,9 +29,13 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 - __Benefits section__
 
   - In this section user will know what are the benefits of drawing manadlas.
-  - The user will see more about what is they are going to offer.and what will they get.
+  - The user will see more about what is they are going to offer and what will they get.
 
-  ![Benefit ssection](./media/benefits-image.png)
+  ![Benefit section](./media/benefits-image.png)
 
+- __video section__
 
+  - In this section user will know more about what is manadala.
+  - The user will allow to access a youtube video.
 
+  ![video section](./media/video-section.png)
