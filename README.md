@@ -19,3 +19,11 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 
 ![Nav Bar](./media/Nav-bar.png)
 
+- __The landing page image__
+
+  - The landing includes a photograph with text overlay to allow the user to see exactly who are eligible to joined and it is for free.
+  - This section introduces the user to how mandala art looks like.
+
+  ![Landing Page](./media/Aboutus%20-page%20-image.png)
+  
+
