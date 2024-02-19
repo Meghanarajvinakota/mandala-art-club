@@ -39,3 +39,11 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
   - The user will allow to access a youtube video.
 
   ![video section](./media/video-section.png)
+
+- __contactus section__
+
+  - In this section user will know contact number and addreess.
+
+  ![contactus section](./media/contactus-image.png)
+  
+
