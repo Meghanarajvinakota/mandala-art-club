@@ -29,7 +29,7 @@ h1,h2,h3{
 
 /*header*/
 header{
-background-color:white;
+background-color:rgba(243, 189, 63, 0.91);;
 padding:0 1rem;
 position:fixed;
 z-index:99;
@@ -58,7 +58,7 @@ header a{
 /* nav bar elements with drop down toggle */
 nav{
     position:absolute;
-    background-color:white;
+    background-color:rgba(243, 189, 63, 0.91);
     width:100%;
     left:0;
     padding: 0 1rem;
@@ -123,6 +123,7 @@ list-style-type:none ;
 
 #benefits-heading{
 padding-top: 20px;
+background-color:white; 
 }
 #offer{
   text-align: center;
@@ -151,6 +152,7 @@ iframe{
 .section-heading{
   text-align: center;
   padding-top: 20px;
+  background-color:white;
 }
 /*Gallery*/
 #photos img{
