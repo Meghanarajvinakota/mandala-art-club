@@ -102,13 +102,14 @@ Lighouse reports were generated on all 3 pages of the website. See below the sco
 ### Validator testing
 
 HTML:
--  When passed through W3C Validator,no errors were found on aboutus page [Aboutus page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io%2Findex.html)
+    -  When passed through W3C Validator,no errors were found on aboutus page [Aboutus page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io%2Findex.html)
 
     - When passed through W3C Validator,no errors were found on signup page[Gallery page](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io%2Fgallery.html)
       
     - When passed through W3C Validator,no errors were found on signup page [Signup page](https://8000-meghanarajv-mandalaartc-j5zstdmrix2.ws-eu108.gitpod.io/signup.html)
 
-CSS:  When passed through Jigsaw validator,no errors were found [(Jigsaw) validator](./media/cssvalidator.png)
+CSS:  
+    - When passed through Jigsaw validator,no errors were found [(Jigsaw) validator](./media/cssvalidator.png)
       
 ## Deployment
 
