@@ -91,7 +91,7 @@ Lighouse reports were generated on all 3 pages of the website. See below the sco
 
 ![Aboutuspage](./media/lighthouse-homepage.png)
 ![Gallerypage](./media/lighthouse-galllerypage.png)
-![Signuppage](./media/lighthouse-signuppage.png)
+![Contactpage](./media/contact-lighthouse.png)
 
 ### Validator testing
 
