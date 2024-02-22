@@ -54,12 +54,12 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 
 ![Gallery](./media/gallery-iamge.png)
 
-- __The Sign Up Page__
+- __The Contact Page__
 
-  - This page will allow the user to get signed up to Mandala art journey with the club. The user will be able specify if they would select their skill level trail or both types of running. 
-  - The user will be asked to submit their full name ,email address and contact number.
+  - This page will allow the user to contact club.
+  - The user will be asked to submit their full name ,email address and a textarea to add comments.
 
-![signup page](./media/signup-image.png)
+![contact](./media/contactus.png)
 
 ## Edits
 
