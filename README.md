@@ -5,7 +5,7 @@ Mandala art club is a website that helps you to learn how to draw a mandal art a
 View the live website here - [Mandal Art Club](https://meghanarajvinakota.github.io/mandala-art-club/ "Mandala-Art-Club")
 
 
-![Responsice Mockup](./media/Mandala-art-club-mockup_13.16.12.png)
+![Responsice Mockup](./media/mockup-image.png)
 
 ## Features
 ### Existing Features
@@ -108,7 +108,7 @@ HTML:
     When passed through W3C Validator,no errors were found on gallery page 
 
     - ![Gallery page](./media/gallery-htmlvalidator.png)
-    
+
      When passed through W3C Validator,no errors were found on contact page 
 
     - ![Contact page](./media/contact-htmlvalidator.png)
