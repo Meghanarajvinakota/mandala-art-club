@@ -92,6 +92,22 @@ Added more styles to. media query make it responsive.
 - This website has been viewed and tested on Google Chrome, Mozilla Firefox, Safari and Microsoft Edge.
 - Family and friends were asked to navigate through the website and identify any bugs or improvements to be made.
 
+### Manual Testing
+| Feature |  Pass/Fail |
+| --- | --- | --- | 
+| I want the site to be responsive to my device. | pass |
+| I want the site to be easy to navigate. | pass |
+| Link directs the user back to the home page when click Title | pass |
+| Directs user to the Gallery page | pass |
+| Directs user to the Contact page | pass |
+| Submit Button | pass |
+| Facebook page will open when click Facebook icon | Pass | 
+| Twitter page will open when click Twitter icon | pass |
+| Instagram page will open when click Instgram icon | pass |
+| Youtube page will open when click Youtube icon | pass |
+| video will play when click play button | pass |
+| website is responsive to all devices | pass |
+
 ### Lighthouse
 
 Lighouse reports were generated on all 3 pages of the website. See below the scores:
