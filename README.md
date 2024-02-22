@@ -124,10 +124,10 @@ The live link can be found here - https://meghanarajvinakota.github.io/mandala-a
 - The text for the Home page was taken from GOOGLE
 - The icons in the benefits,footer and contactus were taken from [Font Awesome](https://fontawesome.com/)
 - Fonts are imported from google fonts
-- reference example taken from love running project 
+- Reference example taken from love running project 
 
 ### Media
 
 - Photos on 3 pages are used from pexels site
-- video link used from youtube
-- fav icon from redketcup site
+- Video link used from youtube
+- Fav icon from redketcup site
