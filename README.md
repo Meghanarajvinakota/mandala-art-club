@@ -58,6 +58,7 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 
   - This page will allow the user to contact club.
   - The user will be asked to submit their full name ,email address and a textarea to add comments.
+  - The submit button allows user to submit their feedback and all their details to marchant.
 
 ![contact](./media/contactpage.png)
 
