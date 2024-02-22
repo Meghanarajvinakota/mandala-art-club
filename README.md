@@ -97,12 +97,13 @@ Lighouse reports were generated on all 3 pages of the website. See below the sco
 
 HTML:
      When passed through W3C Validator,no errors were found on 3 pages.
-    - ![Aboutus page](./media/aboutpage-htmlvalidator.png)
-    - ![gallery](./media/gallery-htmlvalidator.png)
-    - ![contact](./media/contact-htmlvalidator.png)
+    ![Aboutus page](./media/aboutpage-htmlvalidator.png)
+    ![gallery](./media/gallery-htmlvalidator.png)
+    ![contact](./media/contact-htmlvalidator.png)
 
 CSS:  
-    - When passed through Jigsaw validator,no errors were found [Jigsaw validator](./media/cssvalidator.png)
+    - When passed through Jigsaw validator,no errors were found 
+    ![(Jigsaw )validator](./media/cssvalidator.png)
       
 ## Deployment
 
@@ -126,3 +127,6 @@ The live link can be found here - https://meghanarajvinakota.github.io/mandala-a
 - Photos on 3 pages are used from pexels site
 - Video link used from youtube
 - Fav icon from redketcup site
+
+
+[def]: ./media/cssvalidator.png
