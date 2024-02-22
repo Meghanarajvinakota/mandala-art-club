@@ -107,7 +107,7 @@ HTML:
 
     - ![Contact page](./media/contact-htmlvalidator.png)
 CSS:  
-    - When passed through Jigsaw validator,no errors were found [(Jigsaw) validator](./media/cssvalidator.png)
+    - When passed through Jigsaw validator,no errors were found [Jigsaw validator](./media/cssvalidator.png)
       
 ## Deployment
 
@@ -130,3 +130,4 @@ The live link can be found here - https://meghanarajvinakota.github.io/mandala-a
 
 - Photos on 3 pages are used from pexels site
 - video link used from youtube
+- fav icon from redketcup site
