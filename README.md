@@ -94,7 +94,7 @@ Added more styles to. media query make it responsive.
 
 ### Manual Testing
 | Feature |  Pass/Fail |
-| --- | --- | --- | 
+| --- | --- | 
 | I want the site to be responsive to my device. | pass |
 | I want the site to be easy to navigate. | pass |
 | Link directs the user back to the home page when click Title | pass |
