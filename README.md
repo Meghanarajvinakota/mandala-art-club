@@ -33,7 +33,7 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 
   ![Benefit section](./media/benefits-image.png)
 
-- __video section__
+- __Video section__
 
   - In this section user will know more about what is manadala.
   - The user will allow to access a youtube video.
@@ -45,7 +45,7 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
    - The footer section includes links to the relevant social media sites for Mandala art club. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-  ![footer section](./media/footer.png)
+  ![footer section](./media/footerimage.png)
 
 - __Gallery__
 
@@ -59,13 +59,19 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
   - This page will allow the user to contact club.
   - The user will be asked to submit their full name ,email address and a textarea to add comments.
 
-![contact](./media/contactus.png)
+![contact](./media/contactpage.png)
 
 ## Edits
 
 Once the website was actually being created, there were some changes made.
 Webpage is not responsive to all devices when it tested initially.
 Added more styles to. media query make it responsive.
+
+## Color Pallette
+
+ We used these below colors in the website.
+
+ ![color-pallette](./media/color.png)
 
 ## Features Left to Implement
 
