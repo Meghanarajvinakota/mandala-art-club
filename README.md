@@ -105,9 +105,13 @@ HTML:
      When passed through W3C Validator,no errors were found on aboutus page 
     - ![Aboutus page](./media/aboutpage-htmlvalidator.png)
 
+    When passed through W3C Validator,no errors were found on gallery page 
+
     - ![Gallery page](./media/gallery-htmlvalidator.png)
     
-    - ![Contact page](./media/contact%20htmlvalidator.png)
+     When passed through W3C Validator,no errors were found on contact page 
+
+    - ![Contact page](./media/contact-htmlvalidator.png)
 CSS:  
     - When passed through Jigsaw validator,no errors were found [(Jigsaw) validator](./media/cssvalidator.png)
       
