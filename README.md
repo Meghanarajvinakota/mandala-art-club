@@ -40,18 +40,12 @@ View the live website here - [Mandal Art Club](https://meghanarajvinakota.github
 
   ![video section](./media/video-section.png)
 
-- __contactus section__
-
-  - In this section user will know contact number and addreess.
-
-  ![contactus section](./media/contactus-image.png)
-
 - __Footer section__
 
    - The footer section includes links to the relevant social media sites for Mandala art club. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-  ![footer section](./media/footer-image.png)
+  ![footer section](./media/footer.png)
 
 - __Gallery__
 
